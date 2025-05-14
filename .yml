@@ -1,0 +1,2 @@
+- name: Terraform and TFLint PR Commenter
+  uses: GetTerminus/terraform-pr-commenter@v3.0.3
